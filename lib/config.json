@@ -1,0 +1,10 @@
+{
+  "s3": {
+    "region": "",
+    "bucket": "",
+    "prefix": "",
+    "partSize": "5242880",
+    "queueSize": 10,
+    "urlExpirationTime": 86400
+  }
+}
